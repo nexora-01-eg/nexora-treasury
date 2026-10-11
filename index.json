@@ -1,0 +1,202 @@
+{
+  "name": "NEXORA Treasury X",
+  "version": "1.0.0",
+  "description": "تم بناء ترسانة اكس - فيها كل الموارد اللي ممكن تحتاجها لإنتاج فيديوهات NEXORA",
+  "lastUpdated": "2026-09-03",
+  "assets": {
+    "videos": {
+      "backgrounds": [
+        {
+          "id": "bg-gold-particles",
+          "name": "جسيمات ذهبية متحركة",
+          "file": "videos/backgrounds/bg-gold-particles.mp4",
+          "useCase": "خلفية for Logo, Stats, CTA scenes",
+          "mood": "premium, luxury, elegant"
+        },
+        {
+          "id": "bg-dark-smoke",
+          "name": "دخان داكن متحرك",
+          "file": "videos/backgrounds/bg-dark-smoke.mp4",
+          "useCase": "خلفية for Hook, Problem scenes",
+          "mood": "mysterious, dramatic, dark"
+        },
+        {
+          "id": "bg-gradient-wave",
+          "name": "موجة تدرج لوني",
+          "file": "videos/backgrounds/bg-gradient-wave.mp4",
+          "useCase": "خلفية for Modern, Tech scenes",
+          "mood": "modern, fluid, colorful"
+        },
+        {
+          "id": "bg-tech-glitch",
+          "name": "تأثير خلل تقني",
+          "file": "videos/backgrounds/bg-tech-glitch.mp4",
+          "useCase": "خلفية for AI, Tech, Innovation scenes",
+          "mood": "futuristic, digital, glitch"
+        }
+      ],
+      "stock": [
+        {
+          "id": "stock-earth-from-space",
+          "name": "الأرض من الفضاء",
+          "file": "videos/stock/stock-earth-from-space.mp4",
+          "useCase": "لقطات for Global, Scale, Vision scenes",
+          "mood": "epic, global, visionary"
+        },
+        {
+          "id": "stock-webb-telescope",
+          "name": "صورة تلسكوب ويب",
+          "file": "videos/stock/stock-webb-telescope.mp4",
+          "useCase": "لقطات for Discovery, Innovation scenes",
+          "mood": "discovery, wonder, space"
+        },
+        {
+          "id": "stock-aurora-lights",
+          "name": "الشفق القطبي",
+          "file": "videos/stock/stock-aurora-lights.mp4",
+          "useCase": "لقطات for Beauty, Nature, Inspiration scenes",
+          "mood": "beautiful, natural, inspiring"
+        },
+        {
+          "id": "stock-solar-flare",
+          "name": "انبعاث شمسي",
+          "file": "videos/stock/stock-solar-flare.mp4",
+          "useCase": "لقطات for Energy, Power, Impact scenes",
+          "mood": "powerful, energetic, dramatic"
+        }
+      ]
+    },
+    "images": {
+      "branding": [
+        {
+          "id": "img-branding-hero-01",
+          "name": "صورة بريندنج رئيسية 1",
+          "file": "images/branding/img-branding-hero-01.jpg",
+          "useCase": "ل_scene الهوية البصرية",
+          "mood": "professional, modern"
+        },
+        {
+          "id": "img-branding-hero-02",
+          "name": "صورة بريندنج رئيسية 2",
+          "file": "images/branding/img-branding-hero-02.jpg",
+          "useCase": "ل_scene الهوية البصرية",
+          "mood": "creative, stylish"
+        },
+        {
+          "id": "img-branding-hero-03",
+          "name": "صورة بريندنج رئيسية 3",
+          "file": "images/branding/img-branding-hero-03.jpg",
+          "useCase": "ل_scene الهوية البصرية",
+          "mood": "elegant, premium"
+        }
+      ],
+      "mockups": [
+        {
+          "id": "img-mockup-modern-01",
+          "name": "موكاب عصري 1",
+          "file": "images/mockups/img-mockup-modern-01.jpg",
+          "useCase": "عرض المواقع والتطبيقات",
+          "mood": "modern, clean"
+        },
+        {
+          "id": "img-mockup-modern-02",
+          "name": "موكاب عصري 2",
+          "file": "images/mockups/img-mockup-modern-02.jpg",
+          "useCase": "عرض المواقع والتطبيقات",
+          "mood": "sleek, professional"
+        }
+      ]
+    },
+    "music": {
+      "background": [
+        {
+          "id": "bgm-mission-cinematic",
+          "name": "مهمة سينمائية",
+          "file": "music/background/bgm-mission-cinematic.mp3",
+          "useCase": "خلفية for all videos - متوسطة الإيقاع",
+          "mood": "motivational, steady, professional"
+        },
+        {
+          "id": "bgm-rising-tide",
+          "name": "المد الصاعد",
+          "file": "music/background/bgm-rising-tide.mp3",
+          "useCase": "خلفية for Growth, Progress scenes",
+          "mood": "uplifting, building, positive"
+        },
+        {
+          "id": "bgm-rising",
+          "name": "الصعود",
+          "file": "music/background/bgm-rising.mp3",
+          "useCase": "خلفية for Stats, Success scenes",
+          "mood": "ascending, triumphant"
+        }
+      ],
+      "cinematic": [
+        {
+          "id": "bgm-despair-triumph",
+          "name": "اليأس والانتصار",
+          "file": "music/cinematic/bgm-despair-triumph.mp3",
+          "useCase": "للحظات الدرامية والانتصار",
+          "mood": "dramatic, emotional, powerful"
+        },
+        {
+          "id": "bgm-epic-unease",
+          "name": "توتر ملحمي",
+          "file": "music/cinematic/bgm-epic-unease.mp3",
+          "useCase": "للحظات التوتر والتشويق",
+          "mood": "tense, suspenseful, epic"
+        }
+      ]
+    },
+    "fonts": {
+      "arabic": [
+        {
+          "id": "cairo",
+          "name": "خطairo",
+          "file": "fonts/arabic/cairo-variable.ttf",
+          "useCase": "النصوص العربية الرئيسية",
+          "weights": "variable (all weights)"
+        },
+        {
+          "id": "tajawal",
+          "name": "خط Tajawal",
+          "file": "fonts/arabic/tajawal-bold.ttf",
+          "useCase": "النصوص العربية البديلة",
+          "weights": "bold"
+        },
+        {
+          "id": "almarai",
+          "name": "خط Almarai",
+          "file": "fonts/arabic/almarai-bold.ttf",
+          "useCase": "النصوص العربية البديلة",
+          "weights": "bold"
+        }
+      ],
+      "english": [
+        {
+          "id": "inter",
+          "name": "خط Inter",
+          "file": "fonts/english/inter-variable.ttf",
+          "useCase": "النصوص الإنجليزية الرئيسية",
+          "weights": "variable (all weights)"
+        },
+        {
+          "id": "satoshi",
+          "name": "خط Satoshi",
+          "file": "fonts/english/satoshi-bold.otf",
+          "useCase": "النصوص الإنجليزية البديلة",
+          "weights": "bold"
+        }
+      ]
+    }
+  },
+  "colorPalette": {
+    "primary": "#d4a843",
+    "primaryLight": "#e8c97a",
+    "primaryDark": "#b8922e",
+    "background": "#0a0a0a",
+    "backgroundLight": "#1a1a1a",
+    "text": "#ffffff",
+    "textMuted": "rgba(255,255,255,0.7)"
+  }
+}
